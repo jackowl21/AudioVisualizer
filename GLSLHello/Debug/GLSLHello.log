@@ -1,0 +1,7 @@
+﻿  demo.cpp
+c:\users\user\documents\visual studio 2015\projects\glslhello\glslhello\demo.cpp(273): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\user\documents\visual studio 2015\projects\glslhello\glslhello\demo.cpp(276): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\glslhello\glslhello\demo.cpp(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\glslhello\glslhello\demo.cpp(278): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  GLSLHello.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\GLSLHello\Debug\GLSLHello.exe
+  GLSLHello.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\GLSLHello\Debug\GLSLHello.pdb (Full PDB)
